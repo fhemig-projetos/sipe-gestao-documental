@@ -158,3 +158,25 @@ Recomenda-se tratar automação como **fase posterior**, e não como pré-requis
 ## Considerações finais
 
 Este documento estabelece uma base sólida para a implementação do processo de gestão documental funcional da FHEMIG, alinhado ao SEI e ao SIPE, respeitando a realidade institucional e permitindo evolução incremental e sustentável.
+
+## Anotações GPT
+
+🧠 Dica de uso inteligente PROJECTS (data de vencimento)
+
+Depois, você pode criar uma view no Project:
+
+Filtro:
+
+due:<@today
+
+
+👉 mostra tarefas atrasadas
+
+Ou:
+
+due:<=@next-week
+
+
+👉 próximas da entrega
+
+Isso é muito poderoso para gestão.
