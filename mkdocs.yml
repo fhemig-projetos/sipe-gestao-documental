@@ -1,0 +1,29 @@
+site_name: Gestão e digitalização de documentos funcionais - FHEMIG 
+site_description: Repositório de documentação 
+site_author: FHEMIG
+repo_url: https://fhemig-projetos.github.io/sipe-gestao-documental/
+theme:
+  name: material
+  features:
+#    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+extra_javascript:
+  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
+nav:
+  - Home: index.md
+  - Documentação:
+    - Projeto: docs/projeto.md
+    - Plano de ação: docs/plano_acao.md
+
