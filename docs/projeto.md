@@ -135,3 +135,5 @@ O projeto será executado conforme plano de ação detalhado, contemplando açõ
 ## 11. CONSIDERAÇÕES FINAIS
 
 Este projeto estabelece as bases para uma transformação estrutural na gestão documental funcional da FHEMIG, promovendo maior eficiência administrativa, segurança da informação e alinhamento às diretrizes de modernização do Estado de Minas Gerais. Sua implementação gradual, com forte governança e validação por meio de projetos piloto, é essencial para o sucesso e sustentabilidade da iniciativa.
+
+teste123
