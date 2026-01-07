@@ -1,7 +1,7 @@
-site_name: Gestão e digitalização de documentos funcionais - FHEMIG 
+site_name: Digitalização de documentos funcionais - FHEMIG 
 site_description: Repositório de documentação 
 site_author: FHEMIG
-repo_url: https://fhemig-projetos.github.io/sipe-gestao-documental/
+repo_url: https://github.com/fhemig-projetos/sipe-gestao-documental
 theme:
   name: material
   features:
@@ -24,6 +24,6 @@ extra_javascript:
 nav:
   - Home: index.md
   - Documentação:
-    - Projeto: docs/projeto.md
-    - Plano de ação: docs/plano_acao.md
+    - Projeto: projeto.md
+    - Plano de ação: plano_acao.md
 

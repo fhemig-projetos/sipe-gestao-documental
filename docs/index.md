@@ -1,6 +1,6 @@
-# Gestão e Digitalização de Documentos Funcionais – FHEMIG
+# Digitalização de Documentos Funcionais – FHEMIG
 
-Este repositório reúne a **documentação, o planejamento e os artefatos** do projeto de estruturação do processo de **gestão e digitalização de documentos funcionais** no âmbito da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG).
+Este repositório reúne a **documentação, o planejamento e os artefatos** do projeto de estruturação do processo de **digitalização de documentos funcionais e implementação do SIPE (Sistema de Indexação de Documentos em Pastas Funcionais Eletrônicas)** no âmbito da Fundação Hospitalar do Estado de Minas Gerais (FHEMIG).
 
 O projeto encontra-se em **fase inicial de diagnóstico e mapeamento**, com foco na organização do conhecimento, definição de padrões e desenho de processos.
 
