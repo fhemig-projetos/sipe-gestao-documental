@@ -6,7 +6,7 @@ O projeto encontra-se em **fase inicial de diagnóstico e mapeamento**, com foco
 
 ---
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Estruturar um **processo padronizado, organizado e sustentável** para a gestão de documentos funcionais, visando:
 
@@ -17,7 +17,7 @@ Estruturar um **processo padronizado, organizado e sustentável** para a gestão
 
 ---
 
-## 🧭 Escopo inicial
+## Escopo inicial
 
 Neste momento, o projeto contempla:
 
@@ -27,29 +27,29 @@ Neste momento, o projeto contempla:
 - Definição de padrões mínimos (digitalização, nomenclatura, metadados)  
 - Documentação institucional do processo  
 
-📌 **Não faz parte do escopo inicial** a implantação de sistemas corporativos ou a substituição de soluções oficiais já existentes.
+**Não faz parte do escopo inicial** a implantação de sistemas corporativos ou a substituição de soluções oficiais já existentes.
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 A documentação oficial do projeto é mantida em formato **Markdown**, organizada com **MkDocs** e publicada via **GitHub Pages**.
 
 Ela pode ser acessada em:
-> 🔗 *(link do GitHub Pages será incluído após a publicação)*
+> *(link do GitHub Pages será incluído após a publicação)*
 
 Toda a documentação é versionada e atualizada conforme a evolução do projeto.
 
 ---
 
-## 🗂️ Organização do repositório
+## Organização do repositório
 ├── docs/ # Documentação do projeto (MkDocs)
 ├── mkdocs.yml # Configuração do site de documentação
 ├── README.md # Visão geral do projeto
 
 ---
 
-## 🛠️ Gestão do projeto
+## Gestão do projeto
 
 A gestão das atividades, discussões e decisões do projeto é realizada por meio das ferramentas do GitHub:
 
@@ -60,7 +60,7 @@ Esse modelo permite transparência, rastreabilidade e colaboração estruturada.
 
 ---
 
-## 👥 Governança e participação
+## Governança e participação
 
 O projeto é conduzido de forma colaborativa, respeitando as atribuições institucionais e os fluxos de validação necessários.
 
@@ -68,13 +68,13 @@ A inclusão de participantes, definição de responsabilidades e níveis de aces
 
 ---
 
-## 📌 Status do projeto
+## Status do projeto
 
-🟡 **Em andamento – fase de diagnóstico e estruturação inicial**
+**Em andamento – fase de diagnóstico e estruturação inicial**
 
 ---
 
-## 📄 Licença e uso
+## Licença e uso
 
 Este repositório tem finalidade **institucional**, voltada à organização interna de processos e ao compartilhamento de conhecimento no âmbito da FHEMIG.
 

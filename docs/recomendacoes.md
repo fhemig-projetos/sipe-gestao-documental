@@ -70,11 +70,11 @@ Essa abordagem evita iniciar a digitalização sem clareza de processo (“digit
 ## 3. Plano de ação e cronograma  
 ### (Formato de tabela)
 
-> ⚠️ **Observação importante**  
+> **Observação importante**  
 > As durações e prazos são **estimativas iniciais**, compatíveis com um projeto desse porte.  
 > Ajustes mais precisos deverão ser realizados após a fase de diagnóstico.
 
-> 📌 **Nota**  
+> **Nota**  
 > O detalhamento do plano de ação será apresentado em formato de tabela contendo, por exemplo:
 > - Fase / Subprojeto  
 > - Atividade  
@@ -122,7 +122,7 @@ Na prática:
   - Admissão;
   - Instituição.
 
-👉 Recomenda-se formalizar essa definição em **normativo interno**.
+Recomenda-se formalizar essa definição em **normativo interno**.
 
 ---
 
@@ -161,7 +161,7 @@ Este documento estabelece uma base sólida para a implementação do processo de
 
 ## Anotações GPT
 
-🧠 Dica de uso inteligente PROJECTS (data de vencimento)
+Dica de uso inteligente PROJECTS (data de vencimento)
 
 Depois, você pode criar uma view no Project:
 
@@ -170,14 +170,14 @@ Filtro:
 due:<@today
 
 
-👉 mostra tarefas atrasadas
+mostra tarefas atrasadas
 
 Ou:
 
 due:<=@next-week
 
 
-👉 próximas da entrega
+próximas da entrega
 
 Isso é muito poderoso para gestão.
 
