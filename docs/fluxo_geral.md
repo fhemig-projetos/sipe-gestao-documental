@@ -1,5 +1,3 @@
-## Fluxo Geral
-
 O diagrama abaixo apresenta a visão macro do projeto de implementação da gestão e digitalização de documentos funcionais da FHEMIG, desde as etapas iniciais de benchmarking até a institucionalização do processo.
 
 ```mermaid
