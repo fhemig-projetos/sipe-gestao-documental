@@ -19,10 +19,10 @@ A fim de atender a realidade atual da FHEMIG, concordamos em realizar nesse prim
 ## Encaminhamentos
 1. Nesse sentido, nos foi solicitado o mapeamento de algumas informações para avaliar a possibilidade de uso do sistema por parte da FHEMIG, em termos de hospedagem, capacidade do sistema e volumetria de documentos.
 
-> - Quantidade de servidores ativos.
-- Quantidade de servidores inativos.
-- Quantidade de documentos por pasta funcional.
-- Quantidade de pastas funcionais.
+    - Quantidade de servidores ativos.
+    - Quantidade de servidores inativos.
+    - Quantidade de documentos por pasta funcional.
+    - Quantidade de pastas funcionais.
 
 2. Solicitamos também a liberação de acesso em ambiente de testes do SIPE, a ser providenciado pela **Superintendência Central de Administração de Pessoal - SCAP**.
 
